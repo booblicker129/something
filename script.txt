@@ -1,6 +1,6 @@
 _G.Enabled = true
 --local data = readfile("nframes/owl.txt")
-local data = game:HttpGet("https://raw.githubusercontent.com/o7-Fire/Roblox-4/main/the-booth-plaza/amongus.txt") -- prerendered amongus video
+local data = game:HttpGet("https://raw.githubusercontent.com/booblicker129/something/main/frames.txt") -- prerendered amongus video
 
 function update(text)
     local args = {
